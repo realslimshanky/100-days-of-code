@@ -36,3 +36,4 @@
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
+* [My Blog](https://blog.shanky.com) I'll keep updating my progress by posting regular blogs.
