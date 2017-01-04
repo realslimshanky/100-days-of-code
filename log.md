@@ -9,3 +9,12 @@
 **Link:**
 [My Github Profile](https://github.com.realslimshanky)
 [My Blog](https:/blog.shanky.xyz)
+
+### Day 2: January 4th, 2017
+
+**Today's Progress**: Worked on GNDG Community Website.
+
+**Thoughts:** Worked on some minor updates to GNDG Community website, will be adding more to this website in next few days.
+
+**Link:**
+[My GNDG Repo](https://github.com.realslimshanky/gndg-website)
