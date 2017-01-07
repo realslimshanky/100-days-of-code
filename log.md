@@ -7,7 +7,7 @@
 **Thoughts:** On day 1 I wanted to start light so I looked at some issues on my previous repos like Dynamic Calculator. I resolved some issues and pushed code back to github.
 
 **Link:**
-[My Github Profile](https://github.com.realslimshanky)
+[My Github Profile](https://github.com.realslimshanky) |
 [My Blog](https:/blog.shanky.xyz)
 
 
@@ -38,5 +38,15 @@
 **Thoughts:** I was working on GNDG website when I thought of creating some UX elements (hr etc) which will look more interactive on the website, hence I worked on some HR tags and transformed then in a way that they looked to move in a flow. Will be working some other UX elements for and add them on GNDG website.
 
 **Link:**
-[My CodePen](http://codepen.io/realslimshanky/)
+[My CodePen](http://codepen.io/realslimshanky/) | 
 [My Fork GNDG Repo](https://github.com/realslimshanky/gndg-website)
+
+
+### Day 5: January 7th, 2017
+
+**Today's Progress**: Completed Final Draft of GNDG website
+
+**Thoughts:** Today I worked on GNDG website, added the new UX/UI elements I created on CodePen to the webiste. Content is still to be updated. I'll work to make this website more responsive and compatible for mobile devices. After then I'll raise a PR to the original repository
+
+**Link:**
+[View GNDG Website](https://realslimshanky.github.io/gndg-website/)
