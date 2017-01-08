@@ -38,7 +38,7 @@
 **Thoughts:** I was working on GNDG website when I thought of creating some UX elements (hr etc) which will look more interactive on the website, hence I worked on some HR tags and transformed then in a way that they looked to move in a flow. Will be working some other UX elements for and add them on GNDG website.
 
 **Link:**
-[My CodePen](http://codepen.io/realslimshanky/) | 
+[My CodePen](http://codepen.io/realslimshanky/) |
 [My Fork GNDG Repo](https://github.com/realslimshanky/gndg-website)
 
 
@@ -47,6 +47,16 @@
 **Today's Progress**: Completed Final Draft of GNDG website
 
 **Thoughts:** Today I worked on GNDG website, added the new UX/UI elements I created on CodePen to the webiste. Content is still to be updated. I'll work to make this website more responsive and compatible for mobile devices. After then I'll raise a PR to the original repository
+
+**Link:**
+[View GNDG Website](https://realslimshanky.github.io/gndg-website/)
+
+
+### Day 6: January 8th, 2017
+
+**Today's Progress**: Made GNDG Website mobile compatible
+
+**Thoughts:** Since I drafted GNDG for desktop, I've been scratching my head on which element to show and how and which to hide to make it mobile compatible, finally ideas started to pop and my work has began, I've made the website responsive and it has a lot of improvement in future.
 
 **Link:**
 [View GNDG Website](https://realslimshanky.github.io/gndg-website/)
