@@ -60,3 +60,12 @@
 
 **Link:**
 [View GNDG Website](https://realslimshanky.github.io/gndg-website/)
+
+### Day 7: January 9th, 2017
+
+**Today's Progress**: Flexbox + ILUG-D
+
+**Thoughts:** Today, I tried to understand how Flexbox works in CSS3 by playing with it and then used it on ILUG-D (Indian Linux User Group - Delhi) website to make some improvements.
+
+**Link:**
+[View GNDG Website](https://realslimshanky.github.io/ILUG-D.github.io/)
