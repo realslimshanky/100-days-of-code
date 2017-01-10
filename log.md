@@ -61,11 +61,23 @@
 **Link:**
 [View GNDG Website](https://realslimshanky.github.io/gndg-website/)
 
+
 ### Day 7: January 9th, 2017
 
-**Today's Progress**: Flexbox + ILUG-D
+**Today's Progress**: Flexbox + Contributed to ILUG-D (Indian Linux User Group - Delhi) Website
 
 **Thoughts:** Today, I tried to understand how Flexbox works in CSS3 by playing with it and then used it on ILUG-D (Indian Linux User Group - Delhi) website to make some improvements.
 
 **Link:**
 [View GNDG Website](https://realslimshanky.github.io/ILUG-D.github.io/)
+
+
+### Day 8: January 10th, 2017
+
+**Today's Progress**: Contributed to PyDelhi Conference Website
+
+**Thoughts:** PyDelhi conference is scheduled on 18th March 2017, and the community is busy in it's planning and organisation. Also, the website dedicated to the conference needed sum minor changes in Schedule Section so I stepped in and change the whole section. Also worked my way through making it responsive. So, the section is a Table on Desktop (i.e. > 500px) and the Table Header is changed to Tabs (Buttons) to display only one Column at a time on Mobile (i.e. <= 500px).
+
+**Link:**
+[View PyDelhi Conference](https://pydelhi.github.io/conference/) |
+[My Fork Of PyDelhi Conference](https://realslimshanky.github.io/conference/)
