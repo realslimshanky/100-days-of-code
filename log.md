@@ -81,3 +81,14 @@
 **Link:**
 [View PyDelhi Conference](https://pydelhi.github.io/conference/) |
 [My Fork Of PyDelhi Conference](https://realslimshanky.github.io/conference/)
+
+
+### Day 9: January 11th, 2017
+
+**Today's Progress**: Contributed to PyDelhi & Linux Drive Website
+
+**Thoughts:** I contributed to PyDelhi website by removing dead links from it and also some minor changes. For Linux Drive, I created a wireframe (https://www.figma.com/file/MmqTnizP8xtoPZRJWxvAKHhL/Linux-Drive) imagining a simple layout and initiated by including a boilerplate into the repo.
+
+**Link:**
+[View PyDelhi Website](https://pydelhi.github.io/) |
+[My Form Of Linux Drive Repo](https://github.com/theprojectbrainchild/linuxdrive/)
