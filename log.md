@@ -92,3 +92,14 @@
 **Link:**
 [View PyDelhi Website](https://pydelhi.github.io/) |
 [My Form Of Linux Drive Repo](https://github.com/theprojectbrainchild/linuxdrive/)
+
+
+### Day 10: January 13th, 2017
+
+**Today's Progress**: Contributed to Linux Drive website
+
+**Thoughts:** Today I started a fresh project by creating Linux Drive website keeping my previous wireframe in mind. Added a a layout for other to work upon and pushed the code to theprojectbrainchild organisation on github
+
+**Link:**
+[theprojectbrainchild](https://github.com/theprojectbrainchild) |
+[Linux Drive](https://theprojectbrainchild.github.io/linuxdrive/)
