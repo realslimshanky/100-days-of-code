@@ -105,11 +105,22 @@
 [Linux Drive](https://theprojectbrainchild.github.io/linuxdrive/)
 
 
-### Day 11: January 12th, 2017
+### Day 11: January 15th, 2017
 
 **Today's Progress**: English Alphabets using CSS3 Advance
 
 **Thoughts:** After learning some advance CSS3 features I decided to practice by making a codepen project. So, I decided to make all 26 English Alphabets using only CSS.
+
+**Link:**
+[My CodePen](http://codepen.io/realslimshanky/) |
+[Pure CSS Alphabet](http://codepen.io/realslimshanky/pen/LxZyMO)
+
+
+### Day 12: January 16th, 2017
+
+**Today's Progress**: English Alphabets using CSS3 Advance
+
+**Thoughts:** Added more alphabets to my codepen repo. Need to thing of some design pattern to make them look good. Also if I could get some CSS animation on them which looks good will be helpful.
 
 **Link:**
 [My CodePen](http://codepen.io/realslimshanky/) |
