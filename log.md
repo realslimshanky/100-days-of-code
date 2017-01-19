@@ -127,11 +127,21 @@
 [Pure CSS Alphabet](http://codepen.io/realslimshanky/pen/LxZyMO)
 
 
-### Day 13: January 17th, 2017
+### Day 13: January 18th, 2017
 
 **Today's Progress**: Worked on some competitive problems on hacker rank
 
 **Thoughts:** TCS CodeVita is scheduled next month so I started working on some problems to practice for it. I prefered to code in Python as a primary language for the solution.
+
+**Link:**
+[30 Days Of Code - Hackerrank](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+
+
+### Day 14: January 19th, 2017
+
+**Today's Progress**: Another day with more problems on hackerrank
+
+**Thoughts:** Spent another day with problems under python domain on hackerrank. Hackerrank has properly arranged their questions and has a good editorial base. I recommend everyone to make competitive programming a habit for better effeciency and problem solving skills.
 
 **Link:**
 [30 Days Of Code - Hackerrank](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
