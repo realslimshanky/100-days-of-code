@@ -155,3 +155,14 @@
 
 **Link:**
 [My Telegram Bot](https://telegram.me/viralsemesterbot)
+
+
+### Day 16: January 21th, 2017
+
+**Today's Progress**: Created PyDelhi Bot for Telegram
+
+**Thoughts:** Today,at PyDelhi regular Meetup even I gave a lighting talk on Telegram Bot using python. During this talk I created a bot which can respond to only 1 command. Later I expanded the script and made it work with many more commands. I used the same python-telegram-bot package with some others to make this possible.
+
+**Link:**
+[PyDelhi Bot](https://telegram.me/pydelhibot) |
+[Source Code](https://github.com/realslimshanky/PyDelhi-Bot)
