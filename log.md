@@ -166,3 +166,23 @@
 **Link:**
 [PyDelhi Bot](https://telegram.me/pydelhibot) |
 [Source Code](https://github.com/realslimshanky/PyDelhi-Bot)
+
+
+### Day 17: January 22th, 2017
+
+**Today's Progress**: Debugged PyDelhi Bot
+
+**Thoughts:** PyDelhi Bot had a Bug because of which the time for upcoming meetup was displayed in the timezone where the server is deployed i.e. US and not IST. So, I looked into it and with the help of a new module [pytz](http://launchpad.net/pytz) which helped ease the conversion of timezones.
+
+**Link:**
+[PyDelhi Bot - Change logs](https://github.com/realslimshanky/PyDelhi-Bot/blob/master/changelogs.md#version-11--deployed-on-january-22nd-2017)
+
+
+### Day 18: January 23th, 2017
+
+**Today's Progress**: Problems on HackerRank
+
+**Thoughts:** Went through some of the problems displayed under Python domain and strings category and solved some of them. It's difficult to optimize a python algorith for given time constraints and I'm planning to strech out and raise some skill level with C++.
+
+**Link:**
+[HackerRank Python Domain String Category](https://www.hackerrank.com/domains/python/py-strings)
