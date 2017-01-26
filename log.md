@@ -186,3 +186,24 @@
 
 **Link:**
 [HackerRank Python Domain String Category](https://www.hackerrank.com/domains/python/py-strings)
+
+
+### Day 19: January 24th, 2017
+
+**Today's Progress**: Modification in schedule section of PyDelhi Conference website
+
+**Thoughts:** The PyDelhi Conference is expanded to 2 days. First day, the 18th March is only comprised of Talks and second day i.e. 19th will be a workshop day. So schedule section on the website needed to be changed and a new segment for second day has to be added. I made this possible be adding buttons for both days and some jquery to change the view of table. Finally added commits to my previous PR.
+
+**Link:**
+[PyDelhi Conference](https://conference.pydelhi.org/) |
+[View My Changes](https://realslimshanky.github.io/conference/)
+
+
+### Day 20: January 25th, 2017
+
+**Today's Progress**: Worked on HackerRank Python based questions
+
+**Thoughts:** Some of String category questions were remaining so I began with solving them and moved to Sets and completed that category too. In total I solved 17 questions from both the domains. The Minion Game is a problem from string category for whom I couldn't an optimised solution. I'll look into that soon
+
+**Link:**
+[HackerRank Python Domain](https://www.hackerrank.com/domains/python)
