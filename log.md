@@ -207,3 +207,13 @@
 
 **Link:**
 [HackerRank Python Domain](https://www.hackerrank.com/domains/python)
+
+
+### Day 21: January 27th, 2017
+
+**Today's Progress**: Began practicing on HackerEarth environment
+
+**Thoughts:** began my HackerEarth journey with some sample problems and hope to learn a lot in this journey of competitive programming.  
+
+**Link:**
+[HackerEarth Practice Problems](https://www.hackerearth.com/practice)
