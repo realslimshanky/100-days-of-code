@@ -217,3 +217,14 @@
 
 **Link:**
 [HackerEarth Practice Problems](https://www.hackerearth.com/practice)
+
+
+### Day 22: January 28th, 2017
+
+**Today's Progress**: Worked on my ViralSemesterBot and some competitive programming questions.
+
+**Thoughts:** I deployed my ViralSemesterBot on AWS like 2 weeks back. Today, I went into depth of Telegram API to dig out some of the interesting features like Inline Queries and Results and learned how to implement them. Also worked on some competitive questions from HackerEarth to help my programming skills.
+
+**Link:**
+[Viral Semester Bot](https://telegram.me/viralsemesterbot) |
+[HackerEarth Practice Problems](https://www.hackerearth.com/practice)
