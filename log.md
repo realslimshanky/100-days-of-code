@@ -228,3 +228,13 @@
 **Link:**
 [Viral Semester Bot](https://telegram.me/viralsemesterbot) |
 [HackerEarth Practice Problems](https://www.hackerearth.com/practice)
+
+
+### Day 23: January 29th, 2017
+
+**Today's Progress**: Worked on Faculty Registration and Upload module of ViralSemesterBot.
+
+**Thoughts:** I dedicated this weekend on my ViralSemesterBot project and completely implemented faculty registration by providing no of options to choose from. Then I worked on upload module and successfully implemented it for photos and documents. Next my focus will be search module which will complete a version of my bot ready to serve my college.
+
+**Link:**
+[Viral Semester Bot](https://telegram.me/viralsemesterbot)
