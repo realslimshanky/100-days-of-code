@@ -182,7 +182,7 @@
 
 **Today's Progress**: Problems on HackerRank
 
-**Thoughts:** Went through some of the problems displayed under Python domain and strings category and solved some of them. It's difficult to optimize a python algorith for given time constraints and I'm planning to strech out and raise some skill level with C++.
+**Thoughts:** Went through some of the problems displayed under Python domain and strings category and solved some of them. It's difficult to optimize a python algorithm for given time constraints and I'm planning to strech out and raise some skill level with C++.
 
 **Link:**
 [HackerRank Python Domain String Category](https://www.hackerrank.com/domains/python/py-strings)
@@ -235,6 +235,26 @@
 **Today's Progress**: Worked on Faculty Registration and Upload module of ViralSemesterBot.
 
 **Thoughts:** I dedicated this weekend on my ViralSemesterBot project and completely implemented faculty registration by providing no of options to choose from. Then I worked on upload module and successfully implemented it for photos and documents. Next my focus will be search module which will complete a version of my bot ready to serve my college.
+
+**Link:**
+[Viral Semester Bot](https://telegram.me/viralsemesterbot)
+
+
+### Day 24: January 31th, 2017
+
+**Today's Progress**: Complete ViralSemesterBot development with Search module.
+
+**Thoughts:** Following my previous work on bot, I added Search module to it. Users can now simply search for notes under two category 1) by subject, 2) by faculty. My complete algorithm is made considering the slow internet connection for many users. Also, no user session is maintained which gives flexibilty to the person to choose from any of the options any time. This way it's way simpler to add new modules to the bot.
+
+**Link:**
+[Viral Semester Bot](https://telegram.me/viralsemesterbot)
+
+
+### Day 25: February 1th, 2017
+
+**Today's Progress**: Deployed ViralSemesterBot to EC2 and RDS of Amazon Web Services.
+
+**Thoughts:** I already had an instance on EC2 on which I deployed [PyDelhiBot](https://telegram.me/pydelhibot). So I created a seperate virtual environment for ViralSemesterBot to test. Then I created an instance of RDS mysql database and deployed it with .sql from my local mysql server. Finally the bot was ready after providing credentials for mysql db. Next update to this bot will be to add a news module.
 
 **Link:**
 [Viral Semester Bot](https://telegram.me/viralsemesterbot)
