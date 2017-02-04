@@ -268,3 +268,14 @@
 
 **Link**:
 [PyDelhi Bot](https://telegram.me/pydelhibot)
+
+
+### Day 27: February 4th, 2017
+
+**Today's Progress**:Debugged PyDelhiBot and competitive programming.
+
+**Thoughts**: /nextmeetup command wasn't showing accurate data of the next location of the meetup. Tuned that to show the correct location on the map now.
+Secondly, I solved 4 problems from 30 Days Of Code, Hackerrank.
+
+**Link**:
+[PyDelhi Bot](https://telegram.me/pydelhibot)
