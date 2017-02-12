@@ -267,7 +267,8 @@
 **Thoughts**: Tuned PyDelhi bot and it now supports sending Mapped location of /nextmeetup. Also added a new command /nextmeetupschedule to fetch next meetup's schedule. Also, I need to make changes to sendLocation module as the Logitude and Latitude fetched from meetup API are not of exact location of venue. So I'm planning to make use of Google Maps API to fetch location using venue's name.
 
 **Link**:
-[PyDelhi Bot](https://telegram.me/pydelhibot)
+[PyDelhi Bot](https://telegram.me/pydelhibot) |
+[Source Code](https://github.com/realslimshanky/PyDelhi-Bot)
 
 
 ### Day 27: February 4th, 2017
@@ -278,4 +279,50 @@
 Secondly, I solved 4 problems from 30 Days Of Code, Hackerrank.
 
 **Link**:
-[PyDelhi Bot](https://telegram.me/pydelhibot)
+[PyDelhi Bot](https://telegram.me/pydelhibot) |
+[Source Code](https://github.com/realslimshanky/PyDelhi-Bot)
+
+
+### Day 28: February 6th, 2017
+
+**Today's Progress**:Debugges ViralSemesterBot.
+
+**Thoughts**: After deploying ViralSemesterBot, many reviews came in and I started focusing on the loopholes of my bot.
+I found out that the count for each upload was not being recorded and mapped on the database accurately so I debugged the bot and made modifications.
+
+**Link**:
+[Viral Semester Bot](https://telegram.me/viralsemesterbot)
+
+
+### Day 29: February 8th, 2017
+
+**Today's Progress**:Competitive Programming Questions.
+
+**Thoughts**: Went to HackerEarth again and spend 2:30 hrs working on different set of practice questions.
+
+**Link**:
+[HackerEarth Practice Problems](https://www.hackerearth.com/practice)
+
+
+### Day 30: February 10th, 2017
+
+**Today's Progress**:Automated registration for ViralSemesterBot.
+
+**Thoughts**: I had to manually fire quaries to register a branch ambassador or faculty to allow them uplaoding.
+New update added is a new command /admin through which I can see who has registered and allow them to upload notes.
+A congratulatory message is also send to that person just after that.
+
+**Link**:
+[Viral Semester Bot](https://telegram.me/viralsemesterbot)
+
+
+### Day 31: February 12th, 2017
+
+**Today's Progress**:New Feature to PyDelhiBot.
+
+**Thoughts**: Added a new feature on PyDelhiBot. Now teams can be formed like design, website etc and called upon whenever need to help during events like PyDelhi conferences.
+Only specific people (admins) can call upon these teams and modify the members.
+
+**Link**:
+[PyDelhi Bot](https://telegram.me/pydelhibot) |
+[Source Code](https://github.com/realslimshanky/PyDelhi-Bot)
