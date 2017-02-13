@@ -326,3 +326,16 @@ Only specific people (admins) can call upon these teams and modify the members.
 **Link**:
 [PyDelhi Bot](https://telegram.me/pydelhibot) |
 [Source Code](https://github.com/realslimshanky/PyDelhi-Bot)
+
+
+### Day 32: February 13th, 2017
+
+**Today's Progress**:Modification to PyDelhiBot.
+
+**Thoughts**: Team member's name was not made accessible to public to prevent abuse of the command.
+To make it possible I removed '@' from the usernames and asked people manually to ping them by adding '@' at the start.
+This made team member's name publicly accessible and also doesn't abuse the use.
+
+**Link**:
+[PyDelhi Bot](https://telegram.me/pydelhibot) |
+[Source Code](https://github.com/realslimshanky/PyDelhi-Bot)
