@@ -339,3 +339,15 @@ This made team member's name publicly accessible and also doesn't abuse the use.
 **Link**:
 [PyDelhi Bot](https://telegram.me/pydelhibot) |
 [Source Code](https://github.com/realslimshanky/PyDelhi-Bot)
+
+
+### Day 33: February 15th, 2017
+
+**Today's Progress**: Debuggged PyDelhiBot.
+
+**Thoughts**: PyDelhi bot's command /nextmeetupschedule had issues with description containing <a> tags since Telegram HTML parser does not support it.
+So I analysed the input JSON from the meetup.com API and changed the entire code to display corrected description format which Telegram can parse.
+
+**Link**:
+[PyDelhi Bot](https://telegram.me/pydelhibot) |
+[Source Code](https://github.com/realslimshanky/PyDelhi-Bot)
